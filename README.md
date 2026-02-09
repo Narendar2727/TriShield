@@ -49,6 +49,18 @@ TriShield is a handheld smart multi-gas detection device that provides real-time
 
 ---
 
+---
+
+## 📸 Project Prototype
+
+![TriShield Prototype](SAMVED.jpg)
+
+---
+
+## 📄 Project Documentation
+
+[Download Project PDF](MITVPU-SAMVED-Idea-Presentation-Template (1) (1).pdf)
+
 ## 👥 Team
 Team Pandavas  
 Civil Engineering & AI/ML Students
